@@ -1,52 +1,57 @@
-<h1 align="center">🤖 WhatsApp Bot — <code>ARIZAK</code></h1>
+# 👾 Hey, I'm ARIZAK 👾  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WhatsApp-Bot-green?logo=whatsapp&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-18+-green?logo=node.js&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express.js-Server-blue?logo=express&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Baileys-API-orange?logo=javascript&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge" />
+  <!-- Profile Banner -->
+  <img src="profile-banner.png" width="100%" alt="ARIZAK Banner"/>
 </p>
 
+## 🌟 About Me
+- 💻 **IT Student** & passionate about **building bots & automation**  
+- ⚡ Creator of [**ARIZAK-MD WhatsApp Bot**](https://github.com/a-rizak/ARIZAK-MD-)  
+- 🌍 From: **[Your Country]**  
+- 🎯 Goal: Become a **pro full-stack developer & AI engineer**  
+
+---
+
+## 🚀 My Projects
+- 🤖 [**ARIZAK-MD**](https://github.com/a-rizak/ARIZAK-MD-) – A multipurpose **WhatsApp Bot** with deploy buttons  
+- 🛠️ More cool projects coming soon... stay tuned!  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  💬 A powerful <b>WhatsApp Bot</b> built with <a href="https://github.com/WhiskeySockets/Baileys">Baileys</a> + <a href="https://nodejs.org/">Node.js</a>  
+  <img src="https://github-readme-stats.vercel.app/api?username=a-rizak&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rizak&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
 
-## ✨ Features
-- 📩 Auto-replies to simple messages (`hi`, `hello`)  
-- ⚡ Prefix-based commands (default: `!ping`)  
-- 🌐 Web Dashboard:
-  - `/` → status + QR page  
-  - `/status` → JSON bot status  
-  - `/qr.png` → WhatsApp QR pairing  
-- 🔄 Auto reconnect  
-- 🔒 Restrict access to specific numbers  
-- ☁️ Deployable to **Heroku**, **Railway**, or **Render**  
-
----
-
-## 🚀 1-Click Deployment
-
-Easily deploy this bot with one click 👇
+## 🌍 Connect With Me  
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/your-username/whatsapp-bot-arizak">
-    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" />
+  <a href="https://youtube.com/@a.rizak72">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://railway.app/new/template?template=https://github.com/your-username/whatsapp-bot-arizak">
-    <img src="https://railway.app/button.svg" alt="Deploy on Railway" />
+  <a href="https://www.instagram.com/a.rizak72">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://render.com/deploy?repo=https://github.com/your-username/whatsapp-bot-arizak">
-    <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" />
+  <a href="https://tiktok.com/@a.rizak72">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/groups/670550802644585/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://github.com/a-rizak">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-> ⚠️ Replace `your-username/whatsapp-bot-arizak` with your GitHub username + repo name.  
-
 ---
 
-## 📂 Project Structure
+## 🎉 Fun Fact
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgpGNINHzlWBUTe/giphy.gif" width="150px"/>
+</p>
+
+> I love building bots that make life **easier + more fun** 👾
